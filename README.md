@@ -39,16 +39,15 @@ Feature scaling using a pre-trained scaler
 
 ✅ Custom-styled UI with background image and result boxes
 
-🛠️ Tech Stack
-
-Category	 Tools/Libraries
-Language	 Python
-Interface	 Streamlit
-ML Model	 Random Forest Classifier
-Preprocessing	 pandas, scikit-learn, imbalanced-learn
-Model Saving	 pickle (.sav, .pkl)
-UI Styling	 Custom CSS in Streamlit
-Version Control 	Git, GitHub
+| **Category**                      | **Tools & Libraries**                  |
+| --------------------------------- | -------------------------------------- |
+| **Programming Language**          | Python                                 |
+| **User Interface**                | Streamlit                              |
+| **Machine Learning Model**        | Random Forest Classifier               |
+| **Data Preprocessing & Handling** | pandas, scikit-learn, imbalanced-learn |
+| **Model Persistence**             | pickle (.sav, .pkl)                    |
+| **UI Styling**                    | Custom CSS in Streamlit                |
+| **Version Control**               | Git, GitHub                            |
 
 📊 Model Performance
 Model: Random Forest Classifier
