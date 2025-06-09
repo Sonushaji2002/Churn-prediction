@@ -1,4 +1,6 @@
 Telco Customer Churn Prediction
+
+
 📌 Overview
 This project predicts customer churn in a telecommunications company using machine learning and a responsive Streamlit web application. It helps stakeholders proactively identify at-risk customers and optimize retention strategies.
 
