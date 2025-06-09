@@ -39,6 +39,8 @@ Feature scaling using a pre-trained scaler
 
 ✅ Custom-styled UI with background image and result boxes
 
+🛠️ Tech Stack
+
 | **Category**                      | **Tools & Libraries**                  |
 | --------------------------------- | -------------------------------------- |
 | **Programming Language**          | Python                                 |
